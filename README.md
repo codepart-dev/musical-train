@@ -1,6 +1,11 @@
+### **Java Full Stack Spring Boot and Angular**
+
 This Repository is to Teach and learn my knowledge in JAVA, Spring boot, Angular and other related technologies like Docker, PostgreSQL to make it as a FULL STACK LEARNING. please join me in this journey to explorer you skills and learn new technologies. To take this course you dont need any IDE. will use the Githubs Codespace (VS code) as our work space for now. So we dont need to worry about environment setup also we will be in sync on the topics that we are learning.
 
 in this we will be learning
+
+### **The Technology Overview**
+
 1. JAVA (basic to advance) 17 [^1].
 2. Spring Boot (JPA, GATWAY) 3.0 [^2].
 3. Angular [^3].
@@ -8,6 +13,16 @@ in this we will be learning
 5. Docker [^5].
 6. CI/CD [^6].
 7. Github.
+
+### **likely to Follow**.
+
+The [JAVA Road MAP](https://roadmap.sh/java) 
+   
+![java Road MAP](https://github.com/navinkumar-net/musical-train/assets/123103678/e66023a7-7805-4fa4-b449-1e2a70c0bd91)
+
+For [Spring Boot.](https://roadmap.sh/spring-boot)
+
+![Spring Boot Developer](https://github.com/navinkumar-net/musical-train/assets/123103678/f123ee02-6730-47b9-8f93-bd13e73c68a3)
 
 Will learn these first [^7], along with this we will having an exercise [^8] in the each section end. will review our code [^9] and get the to know the best practises in the industry[^10].
 
