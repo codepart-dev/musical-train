@@ -1,6 +1,4 @@
-This Report is to Teach and learn my knowledge on JAVA, Spring boot, Angular and other related technologies to make this as a JAVA Full stack. I am working in JAVA for the past 5 year. along with that I have worked in Angular for 3 years. and with other technologies like Docker, PostgreSQL out of my interest. so i am able to teach what i know up to my knowlwedge. please join me in this journey to explorer you skills. 
-
-To take this course you dont need any IDE. will use the GIT HUB inbuilt codespace (VS code) as our work space for now so we will know what each are working and how the progress is.
+This Repository is to Teach and learn my knowledge in JAVA, Spring boot, Angular and other related technologies like Docker, PostgreSQL to make it as a FULL STACK LEARNING. please join me in this journey to explorer you skills and learn new technologies. To take this course you dont need any IDE. will use the Githubs Codespace (VS code) as our work space for now. So we dont need to worry about environment setup also we will be in sync on the topics that we are learning.
 
 in this we will be learning
 1. JAVA (basic to advance) 17 [^1].
