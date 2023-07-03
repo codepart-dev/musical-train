@@ -1,8 +1,6 @@
 ### **Java Full Stack Spring Boot and Angular**
 
-This Repository is to Teach and learn my knowledge in JAVA, Spring boot, Angular and other related technologies like Docker, PostgreSQL to make it as a FULL STACK LEARNING. please join me in this journey to explorer you skills and learn new technologies. To take this course you dont need any IDE. will use the Githubs Codespace (VS code) as our work space for now. So we dont need to worry about environment setup also we will be in sync on the topics that we are learning.
-
-in this we will be learning
+This Repository is to Teach and learn my knowledge in JAVA, Spring boot, Angular and other related technologies like Docker, PostgreSQL to make it as a FULL STACK LEARNING. please join me in this journey to explorer you skills and learn new technologies. To take this course you dont need any IDE. will use the Githubs Codespace (VS code) as our work space for now. So we dont need to worry about environment setup also we will be in sync on the topics that we are learning. in this we will be learning the below Technologies and we will be using [GitHub](https://github.com/) extensively.
 
 ### **The Technology Overview**
 
