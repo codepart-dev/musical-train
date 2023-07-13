@@ -24,6 +24,36 @@ For [Spring Boot.](https://roadmap.sh/spring-boot)
 
 Will learn these first [^7], along with this we will having an exercise [^8] in the each section end. will review our code [^9] and get the to know the best practises in the industry[^10].
 
+
+
+## Session 1
+Getting to Know the Language 
+1. [Week 1](https://dev.java/learn/oop/)
+    - Objects
+    - Classes
+    - Interfaces
+    - Packages, and 
+    - Inheritance
+    - [ ] Assignment
+
+2. [Week 2](https://dev.java/learn/language-basics/)
+    - Creating Variables and Naming Them
+    - Creating Primitive Type Variables in Your Programs
+    - Creating Arrays in Your Programs
+    - Using the Var Type Identifier
+    - Using Operators in Your Programs
+    - [ ] Assignment
+
+3. [Week 2](https://dev.java/learn/language-basics/)
+    - Summary of Operators
+    - Expressions, Statements and Blocks
+    - Control Flow Statements
+    - Branching with Switch Statements
+    - Branching with Switch Expression
+    - [ ] Assignment
+
+
+
 [^1]: This link will provide you information about the [JAVA version](https://dev.java/learn/) that we will be using.
 [^2]: [Spring Boot 3.1.1](https://docs.spring.io/spring-boot/docs/3.1.1/reference/htmlsingle/) 
 [^3]: [Angular v13](https://v13.angular.io/docs) 
