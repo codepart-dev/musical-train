@@ -26,7 +26,7 @@ Will learn these first [^7], along with this we will having an exercise [^8] in 
 
 
 
-## Session 1
+## **Session 1**
 Getting to Know the Language 
 1. [Week 1](https://dev.java/learn/oop/)
     - Objects
@@ -35,7 +35,8 @@ Getting to Know the Language
     - Packages, and 
     - Inheritance
     - [ ] Assignment
-
+   
+## **Session 2**
 2. [Week 2](https://dev.java/learn/language-basics/)
     - Creating Variables and Naming Them
     - Creating Primitive Type Variables in Your Programs
@@ -44,6 +45,7 @@ Getting to Know the Language
     - Using Operators in Your Programs
     - [ ] Assignment
 
+## **Session 3**
 3. [Week 2](https://dev.java/learn/language-basics/)
     - Summary of Operators
     - Expressions, Statements and Blocks
