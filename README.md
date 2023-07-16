@@ -4,7 +4,7 @@ This Repository is to Teach and learn my knowledge in JAVA, Spring boot, Angular
 
 ### **The Technology Overview**
 
-1. [JAVA (PPT included) ](https://docs.google.com/presentation/d/138c7A7UQlqOaaE1AvCyTPaF9DDnhu9FKev-AU48yzvg/edit?usp=sharing) (basic to advance) 17 [^1].
+1. [JAVA (PPT included) ](https://docs.google.com/presentation/d/138c7A7UQlqOaaE1AvCyTPaF9DDnhu9FKev-AU48yzvg/edit?usp=sharing) 17 SE LTS [^1].
 2. Spring Boot (JPA, GATWAY) 3.0 [^2].
 3. Angular [^3].
 4. PostgreSQL [^4].
